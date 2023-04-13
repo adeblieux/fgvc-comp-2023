@@ -71,9 +71,9 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
-  - **Hank Eichstaedt** - [hankike] (https://github.com/hankike)
-  - **Nathan Desilva** - [nathandesilva27] (https://github.com/nathandesilva27)
-  - **Addison DeBlieux** - [adeblieux] (https://github.com/adeblieux)
+  - **Hank Eichstaedt** - [hankike](https://github.com/hankike)
+  - **Nathan Desilva** - [nathandesilva27](https://github.com/nathandesilva27)
+  - **Addison DeBlieux** - [adeblieux](https://github.com/adeblieux)
   - **Joel Keller** -[joelkeller31](https://github.com/joelkeller31)
 
 ## License
